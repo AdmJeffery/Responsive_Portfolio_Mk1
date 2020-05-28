@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+}
+
+nav {
+    background-color: white;
+}
+
+nav article .name {
+    background-color: lightseagreen;
+}
+
