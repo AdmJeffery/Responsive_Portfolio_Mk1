@@ -22,14 +22,16 @@ body {
 
 footer {
     background-color: lightseagreen;
-    position: absolute;
+    position: fixed;
+    left: 0;
     bottom: 0;
     width: 100%;
-    height: 5%;
+    height: 2%;
 }
 
 
 .footermsg {
+    font-size: 10pt;
     color: white;
     text-align: center;
 }
