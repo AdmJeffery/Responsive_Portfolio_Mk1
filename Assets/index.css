@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: lightgrey;
 }
 
 
@@ -15,10 +15,17 @@ body {
 
 .container {
     background-color: white;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
 footer {
-    background-color: black;
+    background-color: lightseagreen;
+position: absolute;
+bottom: 0;
 }
+
 
 .footermsg {
     color: white;
