@@ -6,7 +6,9 @@ nav {
     background-color: white;
 }
 
-nav article .name {
+nav article #name {
     background-color: lightseagreen;
+    text-align: center;
+    color: white;
 }
 
