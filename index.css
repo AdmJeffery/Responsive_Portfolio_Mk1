@@ -1,4 +1,4 @@
-body {
+.main {
     background-color: gray;
 }
 
@@ -9,8 +9,8 @@ body {
     color: white;
 }
 
-.navlink {
-    
+nav {
+    background-color: white;
 }
 
 .container {
