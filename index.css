@@ -16,6 +16,16 @@ nav {
 .container {
     background-color: white;
 }
+
+#img {
+    margin: auto;
+    width: auto;
+    height: auto;
+
+}
+.para{
+    margin: 10px;
+}
 footer {
     background-color: black;
 }
