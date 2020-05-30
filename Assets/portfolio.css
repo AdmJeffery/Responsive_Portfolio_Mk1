@@ -19,6 +19,9 @@ body {
     font-family: sans-serif;
 }
 
+img {
+    margin: 5;
+}
 
 footer {
     background-color: lightseagreen;
