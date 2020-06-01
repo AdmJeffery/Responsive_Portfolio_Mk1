@@ -21,6 +21,8 @@ body {
 
 img {
     margin: 5;
+    float: left;
+    clear: left;
 }
 
 footer {
