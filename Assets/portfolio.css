@@ -25,17 +25,17 @@ img {
 }
 
 footer {
-    background-color: lightseagreen;
+    background-color: whitesmoke;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 2%;
+    height: 3%;
 }
 
 
 .footermsg {
     font-size: 10pt;
-    color: white;
+    color: black;
     text-align: center;
 }
