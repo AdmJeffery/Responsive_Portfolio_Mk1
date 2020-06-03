@@ -12,8 +12,12 @@
  ## Portfolio
 * The Portfolio page is set up for me to create pictures and links associated with past and future projects. Currently, there are several placeholders on the page that will be updated as my education continues.
 
+![Portfolio](Assets/Portfolio.png)
+
  ## Contact
 * The Contact Me page serves as an avenue to message me personally. Currently, it is not linked up to my email, but it will be at a later date. This section probably was the most difficult, yet also the page I am most proud of. 
+
+![Contact](Assets/Contact.png)
 
 * What I enjoyed most was learning how to create professional designs on a webpage. I've never be adverse to research, and finding little discoveries on how to make things work and appear as they should was truly an experience worth remembering.
 
