@@ -7,8 +7,8 @@
  ## About
 * The About me section gives a brief intro to who I am and why I am learning coding. At this point, it serves as a simply designed introduction with several links to my social media.
 
-![About Me](assets/About_Me.png)]
- 
+![About Me](Assets/About_Me.png)
+    
  ## Portfolio
 * The Portfolio page is set up for me to create pictures and links associated with past and future projects. Currently, there are several placeholders on the page that will be updated as my education continues.
 
