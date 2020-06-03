@@ -18,4 +18,4 @@
 # What I learned
 * How to incoporate Bootstrap correctly
 * Better troubleshooting skills
-* 
+* How to collaborate and research more effectively.
