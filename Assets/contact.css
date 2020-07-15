@@ -15,13 +15,13 @@ body {
 
 .container {
     background-color: white;
-    
+    padding: 10px;
     font-family: sans-serif;
 }
 
 
 footer {
-    background-color: whitesmoke;
+    background-color: lightseagreen;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -30,6 +30,6 @@ footer {
 
 
 .footermsg {
-    color: black;
+    color: white;
     text-align: center;
 }
