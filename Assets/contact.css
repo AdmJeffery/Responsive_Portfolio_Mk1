@@ -34,8 +34,6 @@ footer {
     text-align: center;
 }
 
-main {
-    
-    padding-left: 15px;
-    padding-right: 15px;
+.container{
+    padding: 0px;
 }
