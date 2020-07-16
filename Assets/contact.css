@@ -21,7 +21,7 @@ body {
 
 
 footer {
-    background-color: lightseagreen;
+    background-color: whitesmoke;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -30,6 +30,12 @@ footer {
 
 
 .footermsg {
-    color: white;
+    color: black;
     text-align: center;
+}
+
+main {
+    
+    padding-left: 15px;
+    padding-right: 15px;
 }
