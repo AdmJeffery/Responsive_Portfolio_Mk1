@@ -1,12 +1,12 @@
 body {
-    background-color: lightgrey;
+    background-color: #463058;
 }
 
 
 #name {
-    background-color: lightseagreen;
+    
     text-align: center;
-    color: white;
+    
 }
 
 .nav {
@@ -14,18 +14,33 @@ body {
 }
 
 .container {
-    background-color: white;
+    background-color: lightblue;
     padding: 10px;
     font-family: sans-serif;
+    box-shadow: 0 0 8px 3px lightblue;
 }
 
 img {
     margin: 5;
     
+    
+}
+
+.col-md-6 {
+    text-align: center;
+}
+
+a {
+    color: blue;
+    
+}
+
+.homework-link {
+    text-decoration: underline;
 }
 
 footer {
-    background-color: whitesmoke;
+    background-color: #b19a78;
     position: fixed;
     left: 0;
     bottom: 0;
