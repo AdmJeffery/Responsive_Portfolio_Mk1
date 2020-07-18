@@ -1,27 +1,31 @@
 body {
-    background-color: lightgrey;
+    background-color: #463058;
 }
 
 
 #name {
-    background-color: lightseagreen;
     text-align: center;
     color: white;
 }
 
 .nav {
     float: right;
+    
 }
 
 .container {
-    background-color: white;
+    background-color: lightblue;
     padding: 10px;
     font-family: sans-serif;
+    box-shadow: 0 0 8px 3px lightblue;
 }
 
+a {
+    color: #815e77;
+}
 
 footer {
-    background-color: whitesmoke;
+    background-color: #b19a78;
     position: absolute;
     bottom: 0;
     width: 100%;
